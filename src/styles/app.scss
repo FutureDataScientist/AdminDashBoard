@@ -1,5 +1,9 @@
 @import "mixin";
 @import "dashboard";
+@import "charts.scss";
+@import "dashboardapp.scss";
+@import "mediaquery.scss";
+@import "products.scss";
 
 :root{
     font-family: Inter,system-ui,Avenir,Arial, Helvetica, sans-serif;
