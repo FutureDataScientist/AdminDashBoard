@@ -148,12 +148,7 @@ const DivThree = ({ location }: { location: Location }) => (
         Icon={RiCoupon3Fill}
         location={location}
       />
-      <Li
-        url="/admin/app/toss"
-        text="Toss"
-        Icon={FaGamepad}
-        location={location}
-      />
+     
     </ul>
   </div>
 );
